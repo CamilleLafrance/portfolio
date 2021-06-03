@@ -130,7 +130,7 @@ a {
   -o-transition: background-color 0.4s linear, color 0.4s linear;
   -ms-transition: background-color 0.4s linear, color 0.4s linear;
   transition: background-color 0.4s linear, color 0.4s linear;
-  color: #dcb132;
+  color: #e9f0f2;
 }
 
 a:hover,
@@ -261,7 +261,7 @@ input {
 #g {
   padding-bottom: 50px;
   padding-top: 50px;
-  background: #dcb132;
+  background: #03c9a9;
   min-height: 700px;
   color: white;
 }
@@ -273,6 +273,27 @@ input {
 }
 
 #g p {
+  color: white;
+  font-size: 16px;
+}
+
+/* Yellow Section */
+
+#j {
+  padding-bottom: 50px;
+  padding-top: 50px;
+  background: #dcb132;
+  min-height: 700px;
+  color: white;
+}
+
+#j h1 {
+  font-size: 80px;
+  font-weight: 700;
+  text-align: center;
+}
+
+#j p {
   color: white;
   font-size: 16px;
 }
